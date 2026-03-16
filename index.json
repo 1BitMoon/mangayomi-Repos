@@ -1,0 +1,10 @@
+[
+  {
+    "name": "XBato",
+    "pkg": "xbato",
+    "lang": "en",
+    "version": 1,
+    "nsfw": true,
+    "source": "sources/xbato.js"
+  }
+]
